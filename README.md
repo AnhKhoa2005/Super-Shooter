@@ -1,22 +1,5 @@
 # Super Shooter
 
-<div align="center">
-	<img src="Assets/_Data/Images/Gemini_Generated_Image_vkga1jvkga1jvkga-removebg-preview.png" alt="Super Shooter Logo" width="520" />
-
-    <h3>Fast-paced multiplayer tank arena built with Unity, Photon Fusion, and PlayFab.</h3>
-
-    <p>
-    	<img src="https://img.shields.io/badge/Unity-2022.3.62f2-111111?logo=unity" alt="Unity Version" />
-    	<img src="https://img.shields.io/badge/Netcode-Photon%20Fusion-5B2EFF?logo=photon" alt="Photon Fusion" />
-    	<img src="https://img.shields.io/badge/Chat-Photon%20Chat-0A84FF" alt="Photon Chat" />
-    	<img src="https://img.shields.io/badge/Backend-PlayFab-FE7A16" alt="PlayFab" />
-    	<img src="https://img.shields.io/badge/Render-URP-00AEEF" alt="URP" />
-    </p>
-
-</div>
-
----
-
 ## Demo Gallery
 
 > The images below are loaded directly from this repository, so visitors can preview the game style and arena assets immediately on GitHub.
@@ -133,9 +116,6 @@ Create Room map selection uses dropdown index + 2 to map to Level1..Level3.
 - Photon Chat (in-room chat)
 - PlayFab (login + leaderboard)
 - UniTask (async workflows)
-- TextMeshPro + UGUI (UI)
-- Cinemachine (camera support)
-- URP (render pipeline)
 
 ---
 
@@ -145,15 +125,3 @@ Create Room map selection uses dropdown index + 2 to map to Level1..Level3.
 2. Ensure Photon and PlayFab credentials are configured for your environment.
 3. Run one instance as Host (Create Room), second instance as Client (Join Room).
 4. Mark both players Ready and start the match.
-
----
-
-## Suggested GitHub Showcase Upgrade
-
-For an even better repository landing page, add these files and swap them into the Demo Gallery section:
-
-- docs/demo/gameplay-loop.gif
-- docs/demo/weapon-pickup.gif
-- docs/demo/endgame-scoreboard.gif
-
-This will provide live-action gameplay previews directly on the project page.
