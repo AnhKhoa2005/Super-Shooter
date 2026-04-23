@@ -330,7 +330,9 @@ Library/ScriptAssemblies/
  UnityEditor.UI.dll
  UnityEngine.TestRunner.dll
  UnityEngine.UI.dll
-Temp/bin/Debug/Fusion.Addons.Physics.dll
+Temp/bin/Debug/
+ Fusion.Addons.Physics.dll
+ Fusion.Unity.dll
 
 [analyzerReferences]
 C:/Program Files/Unity/Hub/Editor/2022.3.62f2/Editor/Data/Tools/Unity.SourceGenerators/
